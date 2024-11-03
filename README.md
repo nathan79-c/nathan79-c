@@ -1,13 +1,24 @@
-<h1 align="center">Hi 👋, I'm Kayumba Nathan</h1> <h3 align="center">Mobile Developer | Backend Enthusiast | Manga & Music Lover</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathan79-c&label=Profile%20views&color=0e75b6&style=flat" alt="nathan79-c" /> </p>  <p align="left"> <a href="https://twitter.com/kayumba_nathan" target="blank"><img src="https://img.shields.io/twitter/follow/kayumba_nathan?logo=twitter&style=for-the-badge" alt="kayumba_nathan" /></a> </p>
-🔭 I’m currently working on building mobile apps with Kotlin and Jetpack Compose
-🌱 I’m exploring backend development with Python and PHP
-🎧 Passionate about music and a huge fan of manga
-💬 Ask me about Android development, API integrations, and full-stack web development
-📫 Reach me at nathankayumba7@gmail.com
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kayumba_nathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kayumba_nathan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nathan kayumba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathan-kayumba-a5a02b19b" height="30" width="40" /></a>
-<a href="https://hashnode.com/@nathan79c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@nathan79c" height="30" width="40" /></a>
-</p> <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.android.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathan79-c&show_icons=true&locale=en&layout=compact" alt="nathan79-c" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nathan79-c&show_icons=true&locale=en" alt="nathan79-c" /></p>
+# 💫 About Me:
+🔭 I’m currently  freelance  on building mobile apps with Kotlin and Jetpack Compose<br>🌱 I’m exploring backend development with Python and PHP<br>🎧 Passionate about music and a huge fan of manga<br>💬 Ask me about Android development, API integrations, and full-stack web development <br>📫 Reach me at nathankayumba7@gmail.com
 
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nathan Kayumba) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Nathan kayumba) 
+
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nathan79-c&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nathan79-c&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nathan79-c&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=nathan79-c&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=nathan79-c&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
